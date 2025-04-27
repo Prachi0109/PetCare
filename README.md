@@ -10,7 +10,7 @@ A simple Full Stack web app to manage pets, built using **Spring Boot**, **Angul
 - Basic login system
 
 ## 🛠 Tech Stack
-- Backend: Spring Boot, Java, MySQL, Lombok
+- Backend: Spring Boot, Java, MySQL
 - Frontend: Angular, Bootstrap, HTML/CSS
 
 ## 🔌 API Endpoints
